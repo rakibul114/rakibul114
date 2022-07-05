@@ -19,14 +19,13 @@ I am a Front-end developer. I bring a sense of commitment, dedication, and profe
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakibul114&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul114)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul114&show_icons=true&count_private=true)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rakibul114&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakibul114&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul114&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakibul114)  
 
 ![GitHub metrics](https://metrics.lecoq.io/rakibul114)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rakibul114)  
 
 ![Profile views](https://gpvc.arturio.dev/rakibul114)  
